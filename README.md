@@ -32,4 +32,5 @@
 - Before test P(c) = 0.01 after test it went down by a factor p(c/neg) = 0.0011
 <img src = static/bayes-rule.PNG>
 
-- 
+- how a test helps(rain looking) to increase the probability (to check if I am at a home or not)
+<img src = static/bayes-example.PNG>
